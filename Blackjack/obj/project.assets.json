@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\Blackjack-Game\\Blackjack\\Blackjack.csproj",
+      "projectUniqueName": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Blackjack.csproj",
       "projectName": "Blackjack",
-      "projectPath": "C:\\Github\\Blackjack-Game\\Blackjack\\Blackjack.csproj",
+      "projectPath": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Blackjack.csproj",
       "packagesPath": "C:\\Users\\Julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\Blackjack-Game\\Blackjack\\obj\\",
+      "outputPath": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
