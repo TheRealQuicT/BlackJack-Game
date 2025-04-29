@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Deck deckOne = new Deck();
+
+            deckOne.ShowCards();
         }
     }
 }
