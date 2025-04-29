@@ -62,12 +62,9 @@ namespace Blackjack
         #endregion
 
         #region Methods        
-        /// <summary>
-        /// Shows the suit and value.
-        /// </summary>
-        public void ShowCard()
+        public string ShowCard()
         {
-            Console.WriteLine($"{Value} of {Suit}");
+            return $"{Value} of {Suit}";
         }
         #endregion
     }

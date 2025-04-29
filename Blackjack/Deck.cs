@@ -10,6 +10,8 @@ namespace Blackjack
     {
         #region Fields
         private List<Card> _cardDeck;
+        private List<Card> _discardPile;
+        private Card _playedCards;
         #endregion
 
         #region Properties
@@ -24,11 +26,35 @@ namespace Blackjack
                 _cardDeck = value;
             }
         }
+
+        public Card PlayedCard
+        {
+            get
+            {
+                return _playedCards;
+            }
+        }
+
+        public List<Card> DiscardPile
+        {
+            get
+            {
+                return _discardPile;
+            }
+            set
+            {
+                _discardPile = value;
+            }
+        }
         #endregion
 
         #region Constructors
+        // Default
         public Deck()
         {
+            CardDeck = new List<Card>();
+            DiscardPile = new List<Card>();
+
             List<string> suit = new List<string>();
             List<string> value = new List<string>();
 
@@ -46,8 +72,6 @@ namespace Blackjack
             value.Add("Queen");
             value.Add("King");
 
-            CardDeck = new List<Card>();
-
             foreach (string i in suit)
             {
                 foreach (string j in value)
@@ -64,8 +88,25 @@ namespace Blackjack
         {
             foreach (Card cards in CardDeck)
             {
-                cards.ShowCard();
+                Console.WriteLine(cards.ShowCard());
             }
+        }
+
+        public void RemoveCard()
+        {
+            CardDeck.Remove(PlayedCard);
+            DiscardPile.Add(PlayedCard);
+        }
+
+        public void Shuffle()
+        {
+            // Add logic to randomize cards in deck.
+        }
+
+        public List<Card> EndOfDeck()
+        {
+            // Add Logic to add back the cards from discard pile and shuffle the deck again.
+            return new List<Card>();
         }
         #endregion
     }
