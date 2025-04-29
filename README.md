@@ -86,3 +86,8 @@ The dealer can only hit and stand depending on specific parameters.
 | <span style="background-color:red; color:black; padding:2px 8px; border-radius:4px;">**D**</span> |   | DOUBLE DOWN |
 | <span style="background-color:royalblue; color:black; padding:2px 8px; border-radius:4px;">**SP**</span> |   | SPLIT |
 
+
+Basic Strategy Chart were taken from the Askgamblers Website [https://www.askgamblers.com/gambling-news/blog/blackjack-basic-strategy-chart]
+
+All Rules and Regualtions were taken from the Bicycle Cards Website [https://bicyclecards.com/how-to-play/blackjack]
+
