@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|c:\\github\\therealquict\\blackjack-game\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|c:\\github\\therealquict\\blackjack-game\\blackjack\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|solutionrelative:wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|c:\\github\\therealquict\\blackjack-game\\blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|c:\\github\\therealquict\\blackjack-game\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B9A0AC2-31EF-4AC7-9C52-56F95E1C09AB}|Blackjack.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
               "ToolTip": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Card.cs",
               "RelativeToolTip": "Card.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T04:12:14.939Z",
               "EditorCaption": ""
@@ -61,14 +61,14 @@
               "RelativeDocumentMoniker": "Deck.cs",
               "ToolTip": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Deck.cs",
               "RelativeToolTip": "Deck.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T04:11:30.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Dealer.cs",
               "RelativeDocumentMoniker": "Dealer.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Github\\TheRealQuicT\\BlackJack-Game\\Blackjack\\Wallet.cs",
               "RelativeDocumentMoniker": "Wallet.cs",
